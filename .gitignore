@@ -1,0 +1,12 @@
+/*/*
+!/*/*/
+!/*/*.*
+
+.DS_Store
+*.in
+*.o
+*.hi
+*.exe
+
+.idea
+.vscode
